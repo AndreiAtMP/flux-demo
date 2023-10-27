@@ -22,7 +22,7 @@ spec:
       - image: cloudnatived/demo:hello
         name: demo
         resources: {}
-      - image: apache:latest
+      - image: nginx:mainline-perl
         name: ngninx
         resources: {}
 status: {}
